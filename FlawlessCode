@@ -1,0 +1,6 @@
+number = []
+loop = python.manIDontKnowJustPutTheFriesInTheBag
+
+for number in loop(41):
+  python.pleaseCodeForMe
+  python.prettyPlease
