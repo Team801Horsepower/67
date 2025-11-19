@@ -1,0 +1,10 @@
+import random
+
+kingTower = True
+limit = random.randint(1, 100)
+
+for i in range(limit):
+    if kingTower == True:
+        print('Divine H')
+    else:
+        print('Home depot')
